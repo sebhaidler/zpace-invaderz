@@ -1,6 +1,6 @@
 # Zpace Invaderz (Space Invaders Inspired Game)
 
-Built in Feb. 2025 after about a month of C++ study.
+Built in Jan. 2025 after about a month of C++ study.
 
 ## Context
 Learning project to understand low-level game development and C++ fundamentals.
