@@ -1,4 +1,4 @@
-# Zpace Invaderz (Space Invaders Clone)
+# Zpace Invaderz (Space Invaders Inspired Game)
 
 Built in Feb. 2025 after about a month of C++ study.
 
