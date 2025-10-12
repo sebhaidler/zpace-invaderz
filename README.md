@@ -11,7 +11,7 @@ Used ECS library https://github.com/raphaelmayer/easys, shoutout to github.com/r
 - SDL2 integration (rendering, input, audio)
 - Game loop timing and state management
 - Collision detection algorithms
-- Audio system with SDL_mixer --> audio removed before publishing repo for licensing reasons.
+- Audio system with SDL_mixer --> audio assets removed before publishing repo for licensing reasons.
 
 ## Credits
 
